@@ -1,0 +1,1 @@
+{"api_request": {"error": {}, "resources": ["job"], "status": "success", "status_code": 202, "url": "https://api.mindee.net/v1/products/saikoride/ssn_reader/v1/predict_async"}, "job": {"available_at": null, "error": {}, "id": "4212d2e2-8da4-42f7-bb82-4e74200451f5", "issued_at": "2024-04-12T08:09:32.829539", "status": "waiting"}}
